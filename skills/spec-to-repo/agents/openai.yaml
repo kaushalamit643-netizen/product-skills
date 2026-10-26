@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec To Repo"
+  short_description: "Implement a product spec as a working local project"
+  default_prompt: "Use $spec-to-repo to help me with this product task."

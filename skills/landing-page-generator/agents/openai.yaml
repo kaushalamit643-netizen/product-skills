@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Generator"
+  short_description: "Build responsive landing pages with clear product copy"
+  default_prompt: "Use $landing-page-generator to help me with this product task."

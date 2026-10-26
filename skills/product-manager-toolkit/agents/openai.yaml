@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Manager Toolkit"
+  short_description: "Prioritize features and write evidence-based PRDs"
+  default_prompt: "Use $product-manager-toolkit to help me with this product task."

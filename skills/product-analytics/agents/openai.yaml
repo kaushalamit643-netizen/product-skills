@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Analytics"
+  short_description: "Define KPIs and analyze retention, cohorts, funnels"
+  default_prompt: "Use $product-analytics to help me with this product task."

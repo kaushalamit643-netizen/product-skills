@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code To PRD"
+  short_description: "Document implemented product behavior from source code"
+  default_prompt: "Use $code-to-prd to help me with this product task."

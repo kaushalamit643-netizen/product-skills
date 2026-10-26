@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design System"
+  short_description: "Create tokens, component rules, and design handoffs"
+  default_prompt: "Use $ui-design-system to help me with this product task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Strategist"
+  short_description: "Define product strategy and align measurable OKRs"
+  default_prompt: "Use $product-strategist to help me with this product task."

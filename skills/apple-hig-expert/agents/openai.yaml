@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple HIG Expert"
+  short_description: "Audit Apple UI, contrast, targets, and accessibility"
+  default_prompt: "Use $apple-hig-expert to help me with this product task."

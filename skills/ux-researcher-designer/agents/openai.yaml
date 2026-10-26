@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Researcher Designer"
+  short_description: "Plan research, synthesize findings, and map journeys"
+  default_prompt: "Use $ux-researcher-designer to help me with this product task."
