@@ -1,4 +1,0 @@
-interface:
-  display_name: "Research Summarizer"
-  short_description: "Summarize research and compare evidence with citations"
-  default_prompt: "Use $research-summarizer to help me with this product task."

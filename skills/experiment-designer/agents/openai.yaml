@@ -1,4 +1,0 @@
-interface:
-  display_name: "Experiment Designer"
-  short_description: "Design experiments and estimate required samples"
-  default_prompt: "Use $experiment-designer to help me with this product task."

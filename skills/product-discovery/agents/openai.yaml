@@ -1,4 +1,0 @@
-interface:
-  display_name: "Product Discovery"
-  short_description: "Validate opportunities and prioritize assumptions"
-  default_prompt: "Use $product-discovery to help me with this product task."

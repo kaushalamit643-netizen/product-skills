@@ -1,4 +1,0 @@
-interface:
-  display_name: "SAAS Scaffolder"
-  short_description: "Scaffold SaaS foundations with auth, data, and billing"
-  default_prompt: "Use $saas-scaffolder to help me with this product task."

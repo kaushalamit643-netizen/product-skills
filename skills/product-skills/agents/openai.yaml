@@ -1,4 +1,0 @@
-interface:
-  display_name: "Product Skills"
-  short_description: "Route product work and review discovery evidence"
-  default_prompt: "Use $product-skills to help me with this product task."

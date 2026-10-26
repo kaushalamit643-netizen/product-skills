@@ -1,4 +1,0 @@
-interface:
-  display_name: "Agile Product Owner"
-  short_description: "Write stories, refine backlogs, and plan sprints"
-  default_prompt: "Use $agile-product-owner to help me with this product task."

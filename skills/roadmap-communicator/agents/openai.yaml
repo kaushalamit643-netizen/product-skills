@@ -1,4 +1,0 @@
-interface:
-  display_name: "Roadmap Communicator"
-  short_description: "Write roadmaps, release notes, and stakeholder updates"
-  default_prompt: "Use $roadmap-communicator to help me with this product task."
